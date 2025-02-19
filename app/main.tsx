@@ -7,7 +7,7 @@ import {
 } from '@progress/kendo-react-excel-export';
 import { Loader } from '@progress/kendo-react-indicators';
 import { saveAs } from '@progress/kendo-file-saver';
-import products from './products.json';
+import products from './productsLarge.json';
 
 const data = products;
 let cols = [
